@@ -3,7 +3,7 @@ v0.50 beta release (major release with many changes)
 - error handling updates to base modules
 - CL03: length of e is now verified, verifyCommit() and header added
 - SHA1(m_i) for doctest (verifyCommit) added
-- added implementation of private aggregate of time series data by Marc Joye et al.
+- added impl ementation of private aggregate of time series data by Marc Joye et al.
 - added Abe's blind signature scheme [AO00, A01]
 - updated to install file for windows and nsis script.
 - fixed typo in protocol_a00.py and protocol_ao00.py
